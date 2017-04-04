@@ -1,0 +1,17 @@
+.square {
+  width: 25%;
+  border: 1px solid grey;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  height: 10rem;
+}
+
+.board {
+  border: 3px solid blue;
+}
